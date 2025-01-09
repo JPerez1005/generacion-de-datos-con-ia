@@ -71,6 +71,9 @@ las instalaciones son muy basicas se recomienda seguir los pasos dados en:
 
 con esos pasos el aplicativo funcionaria correctamente
 
+y en el documento: [configuracion](data/configuracion.py)
+recuerda ahí colocar tu token
+
 ## Resultados
 los resultados son generalmente muy buenos se genera texto e imagenes en un corto periodo de tiempo y el analisis se hace al instante de generar la imagen
 
