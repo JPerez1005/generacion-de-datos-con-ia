@@ -1,0 +1,6 @@
+python -m venv entorno_virtual
+entorno_virtual\Scripts\activate
+pip install streamlit
+pip install huggingface_hub
+pip install requests
+streamlit run app.py
